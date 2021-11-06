@@ -1,0 +1,30 @@
+//user
+export const SET_USER_ID = 'SET_USER_ID';
+export const SET_IS_SIGNIN = 'SET_IS_SIGNIN';
+export const SET_NAME = 'SET_NAME';
+export const SET_FIRST_NAME = 'SET_FIRST_NAME';
+export const SET_LAST_NAME = 'SET_LAST_NAME';
+export const SET_EMAIL = 'SET_EMAIL';
+export const SET_USER_IMAGE = 'SET_USER_IMAGE';
+export const SET_PHONE_NUMBER = 'SET_PHONE_NUMBER';
+export const SET_WHATSAPP_NUMBER = 'SET_WHATSAPP_NUMBER';
+export const CLEAR_SESSION = 'CLEAR_SESSION';
+export const REFERRAL_CODE = 'REFERRAL_CODE';
+export const ADDRESSID = 'ADDRESSID';
+export const SET_BLOCK_USER_ID = 'SET_BLOCK_USER_ID';
+export const SET_FOLLOWING_USER_ID = 'SET_FOLLOWING_USER_ID';
+export const SET_TOKEN = 'SET_TOKEN';
+
+export const SET_OFFICE_ADDRESS = 'SET_OFFICE_ADDRESS';
+
+export const SELECTADDRESS = 'SELECTADDRESS';
+
+export const USERADDRESS = 'USERADDRESS';
+export const CLEAR_CART = 'CLEAR_CART';
+
+
+export const BUSSINESSPROFILE = 'BUSSINESSPROFILE';
+export const BUSSINESSBRONCHE = 'BUSSINESSBRONCHE';
+
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>218443819411-ar5eo5t8nhrrehfrj7tf8angotc3kueg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.218443819411-ar5eo5t8nhrrehfrj7tf8angotc3kueg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>218443819411-5m42f62rml27i77ahc9uqf2f8bd4pq5p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8VF4QDFwhx3EChbXcGiLNdYL6YecsPEg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218443819411</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nbh.ios.app</string>
+	<key>PROJECT_ID</key>
+	<string>nbh-solution</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nbh-solution.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218443819411:ios:b7eae65147285aeac6a066</string>
+</dict>
+</plist>
